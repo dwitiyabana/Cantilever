@@ -1,2 +1,2 @@
 ﻿# Cantilever Internship
-#in this repository ill upload all my program files for the ai applicatioa
+#in this repository i will upload all my program files for the ai applications
